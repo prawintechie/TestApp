@@ -6,6 +6,6 @@ public class TestApp {
 		System.out.println("some text");
 	}
 	
-	
+	public void get() {}
 
 }
